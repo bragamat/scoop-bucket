@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bragamat/jevkit/releases/download/v0.1.2/jevkit_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/bragamat/jevkit/releases/download/v0.2.0/jevkit_0.2.0_windows_amd64.zip",
             "bin": [
                 "jev-cli.exe"
             ],
-            "hash": "040cd6f3061f9302b70adbad06e2931e4d7fab17f3c5bb806d403493c2f7c43d"
+            "hash": "7b97fcfb846261ba7309c78111500327329e84a7008914794fa2679d6a0c4dae"
         },
         "arm64": {
-            "url": "https://github.com/bragamat/jevkit/releases/download/v0.1.2/jevkit_0.1.2_windows_arm64.zip",
+            "url": "https://github.com/bragamat/jevkit/releases/download/v0.2.0/jevkit_0.2.0_windows_arm64.zip",
             "bin": [
                 "jev-cli.exe"
             ],
-            "hash": "aaba7689fbfe88e0ced609a8e9902f6abdcd7de4c45fae076b18e90fe9d5cdb3"
+            "hash": "a8510b77d283e18fafc75462443f67cb9d4770b9a45d1d8d0979b2c9e9f35258"
         }
     },
     "homepage": "https://github.com/bragamat/jevkit",
