@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bragamat/jevkit/releases/download/v0.1.2/jevkit_0.1.2_windows_amd64.zip",
+            "bin": [
+                "jev-cli.exe"
+            ],
+            "hash": "040cd6f3061f9302b70adbad06e2931e4d7fab17f3c5bb806d403493c2f7c43d"
+        },
+        "arm64": {
+            "url": "https://github.com/bragamat/jevkit/releases/download/v0.1.2/jevkit_0.1.2_windows_arm64.zip",
+            "bin": [
+                "jev-cli.exe"
+            ],
+            "hash": "aaba7689fbfe88e0ced609a8e9902f6abdcd7de4c45fae076b18e90fe9d5cdb3"
+        }
+    },
+    "homepage": "https://github.com/bragamat/jevkit",
+    "license": "MIT",
+    "description": "Read less and decide with calibrated confidence through TypeSafe's Jev model"
+}
